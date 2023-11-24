@@ -69,8 +69,6 @@ body {
 }
 
 .header__navigation .navigation__logo {
-    /*width: 136px;*/
-    /*height: 97px;*/
     grid-column: span 4;
     padding-right: 32px;
 }
